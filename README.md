@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/hci-internalapps/AKS/_apis/build/status/hadr10.pipelines-java?branchName=master)](https://dev.azure.com/hci-internalapps/AKS/_build/latest?definitionId=5&branchName=master)
 
 # Contributing
 
